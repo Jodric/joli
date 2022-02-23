@@ -1,4 +1,4 @@
-# Gulp starter
+# exercice 0
 
 All packages are configured in the package.json.
 
